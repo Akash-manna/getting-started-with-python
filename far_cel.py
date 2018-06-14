@@ -1,4 +1,4 @@
-#Convert a temperature in Celsius to its equivalent Farhenheit
+#1. Convert a temperature in Celsius to its equivalent Farhenheit
 celsius = int(input("Enter the temperature in Celsius: "))
 print ("The Temperature in Celsius is {celsius}". format(celsius=celsius))
 farhenheit = ((9 * celsius + 160) /5)

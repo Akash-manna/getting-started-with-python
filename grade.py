@@ -1,4 +1,4 @@
-#Read marks of Physics, Chemistry and Mathematics from the user and calculate average and Grade. Write a  Python Program to print the Grade according to the following Table:
+#5. Read marks of Physics, Chemistry and Mathematics from the user and calculate average and Grade. Write a  Python Program to print the Grade according to the following Table:
 #       Average         Grade
 #       >=90            O
 #    80<= and >90       A

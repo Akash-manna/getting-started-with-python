@@ -1,4 +1,4 @@
-#If the ages of Mr.X, Mr.Y and Mr.Z are inout through the keyboard, Write a Python program to determine the oldest person among them.
+#4. If the ages of Mr.X, Mr.Y and Mr.Z are inout through the keyboard, Write a Python program to determine the oldest person among them.
 
 x = int(input("Enter the Age of Mr.X: "))
 y = int(input("Enter the Age of Mr.Y: "))

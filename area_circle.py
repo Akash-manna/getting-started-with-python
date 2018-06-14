@@ -1,4 +1,4 @@
-#Find the area and circumference of the circle. (Area = pi*r^2; Circumference = 2*pi*r)
+#3. Find the area and circumference of the circle. (Area = pi*r^2; Circumference = 2*pi*r)
 
 r = float(input("Enter the Radius: "))
 a= 3.14*r*r
