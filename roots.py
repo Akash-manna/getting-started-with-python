@@ -1,5 +1,6 @@
-#Write a Python Program that will calculate teh roots of the quadratic equation with proper error checking of the form
+#6. Write a Python Program that will calculate teh roots of the quadratic equation with proper error checking of the form
 #           ax^2 + bx + c = 0
+
 import math
 a = int(input("Enter the value of A: "))
 b = int(input("Enter the value of B: "))

@@ -1,4 +1,5 @@
-#6. Write a Python Program to read a input from the user and then check whether the given character is an alphabet, number or a special character. If it is an alphabet, convert in to UPPERCASE and vice-versa.
+#7. Write a Python Program to read a input from the user and then check whether the given character is an alphabet, number or a special character. If it is an alphabet, convert in to UPPERCASE and vice-versa.
+
 import string
 a = input("Enter the String: ")
 def is_number(s):
