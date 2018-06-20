@@ -1,4 +1,4 @@
-#25. Write a Python Program using recurssive method to find the factorial of a given number.
+#26. Write a Python Program using recurssive method to find the factorial of a given number.
 
 n = int(input("Enter the Number: "))
 x = n

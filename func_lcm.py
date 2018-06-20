@@ -1,4 +1,4 @@
-#22. Write a Python program using function method to find the LCM of given numbers.
+#23. Write a Python program using function method to find the LCM of given numbers.
 
 a = int(input("Enter the First Number: "))
 b = int(input("Enter the Second Number:"))
@@ -15,4 +15,4 @@ def lcm(a,b):
     return a
 d = lcm(a,b)
 e = lcm(c,d)
-print("The LCM is",e)    
+print("The LCM is",e)

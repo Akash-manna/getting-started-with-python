@@ -1,4 +1,4 @@
-#24. Write a Python Program using recurssive method to reverse any given Number.
+#25. Write a Python Program using recurssive method to reverse any given Number.
 
 n = int(input("Enter the Number: "))
 

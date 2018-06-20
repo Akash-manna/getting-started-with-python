@@ -1,4 +1,4 @@
-#27. Write a Python Program to using recusive method to find the GCD of given numbers.
+#28. Write a Python Program to using recusive method to find the GCD of given numbers.
 
 m = int(input("Enter the First Number: "))
 n = int(input("Enter the Second Number: "))

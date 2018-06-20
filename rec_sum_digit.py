@@ -1,4 +1,4 @@
-#23. Write a Python Program using recursive method to find the sum of digits of a Number.
+#24. Write a Python Program using recursive method to find the sum of digits of a Number.
 
 n = int(input("Enter the Number: "))
 
